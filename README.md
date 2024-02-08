@@ -1,8 +1,12 @@
 # ad-320-dog-facts-replica
 
+## Report
+
+When creating this replica, I didn't run into many issues. The biggest challenge was finding a method to return the right amount of results back to the user, but once I found it, the assignment was pretty straightforward. 
+
 ## Server
 
-To run this server, type the command 'node .\index.js' into the terminal of the directory the files are hosted in.
+To run this web server, type the command 'node .\index.js' into the terminal of the directory the files are hosted in.
 
 ## Documentation
 
