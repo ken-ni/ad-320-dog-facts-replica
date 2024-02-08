@@ -1,0 +1,15 @@
+{
+  "name": "ad-320-fetching-dog-data",
+  "version": "0.1.0",
+  "description": "This package is for the \"Fetching Dog Data with JavaScript\" Assignment for my AD 320 Class.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kennett Vera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
